@@ -32,7 +32,7 @@ import org.hyperledger.fabric.gateway.impl.identity.X509IdentityImpl;
 import org.hyperledger.fabric.sdk.Enrollment;
 
 /**
- * This class consists excusively of static methods used to create and operate on identity information.
+ * This class consists exclusively of static methods used to create and operate on identity information.
  */
 public final class Identities {
     /**
